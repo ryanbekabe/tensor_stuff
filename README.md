@@ -6,3 +6,4 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-tensorfl
 https://www.makeuseof.com/tag/image-recognition-tensorflow-raspberry-pi/
 https://stackoverflow.com/questions/41415629/importerror-no-module-named-tensorflow-python
 https://github.com/tensorflow/models/tree/master/tutorials/image/imagenet
+http://www.robots.ox.ac.uk/~vgg/data/
